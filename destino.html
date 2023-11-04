@@ -5,28 +5,38 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+    <link rel="stylesheet" href="main.css">
 </head>
 
 <body>
-    <h1>Bienvenidos a viajes José</h1>
-    <form id="formId">
-        <label for="seleccionDestino">Destino:</label>
-        <input type="text" id="seleccionDestino" placeholder="Escribe el destino">
-        <button type="submit">Buscar Alojamiento</button>
+    <section>
 
-        <label for="seleccionTrasporte">Trasnporte</label>
-        <select name="transporte" id="transporte">
-            <option value="avion">avion</option>
-            <option value="omnibus">omnibus</option>
-        </select>
-        
-    </form>
-    <ul id="resultados"></ul>
+        <h1>Bienvenidos a viajes José</h1>
+        <form id="formId">
+            <label for="seleccionDestino">Destino:</label>
+            <input type="text" id="seleccionDestino" placeholder="Escribe el destino">
+            <button type="submit">Buscar Alojamiento</button>
 
-   
-    
+            <label for="seleccionTrasporte">Trasnporte</label>
+            <select name="transporte" id="transporte">
+                <option value="avion">avion</option>
+                <option value="omnibus">omnibus</option>
+            </select>
 
-    <script src="main.js"></script>
+        </form>
+        <ul id="resultados"></ul>
+    </section>
+    <aside>
+        <h1>Tu Carrito</h1>
+        <p id="TextoCarritoVacio">Aun no agregaste nada al carrito.</p>
+        <ul id="itemsCarrito"> </ul>
+        <button id="botonVaciarCarrito" type="button" onclick="vaciarCarrito()" disabled >Vaciar Carrito</button>
+    </aside>
+
+
+
+
+    <script src="main.js"></script> 
 </body>
 
 </html>
