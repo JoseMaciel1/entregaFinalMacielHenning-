@@ -6,37 +6,51 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
     <link rel="stylesheet" href="main.css">
+    <link rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/toastify-js/src/toastify.min.css">
 </head>
 
 <body>
-    <section>
-
-        <h1>Bienvenidos a viajes José</h1>
-        <form id="formId">
-            <label for="seleccionDestino">Destino:</label>
-            <input type="text" id="seleccionDestino" placeholder="Escribe el destino">
-            <button type="submit">Buscar Alojamiento</button>
-
-            <label for="seleccionTrasporte">Trasnporte</label>
-            <select name="transporte" id="transporte">
-                <option value="avion">avion</option>
-                <option value="omnibus">omnibus</option>
-            </select>
-
-        </form>
-        <ul id="resultados"></ul>
-    </section>
-    <aside>
-        <h1>Tu Carrito</h1>
-        <p id="TextoCarritoVacio">Aun no agregaste nada al carrito.</p>
-        <ul id="itemsCarrito"> </ul>
-        <button id="botonVaciarCarrito" type="button" onclick="vaciarCarrito()" disabled >Vaciar Carrito</button>
-    </aside>
 
 
+    <div id="loading">
+        <div class="spinner"></div>Loading...
+    </div>
+    <main>
+        <header>
 
+            <h1 class="titulo">Bienvenidos a viajes José</h1>
+            <img src="https://res.cloudinary.com/worldpackers/image/upload/c_limit,f_auto,q_auto,w_1140/lospmgcpmhbm6yarejh1"
+                alt="Imagen de una playa de Brasil">
+        </header>
 
-    <script src="main.js"></script> 
+        <section>
+
+            <form id="formId">
+
+                <label for="seleccionDestino">Destino:</label>
+                <input type="text" id="seleccionDestino" placeholder="Escribe el destino">
+
+                <label for="seleccionTrasporte">Transporte</label>
+                <select name="transporte" id="transporte">
+                    <option value="avion">avion $220usd</option>
+                    <option value="omnibus">omnibus $95usd</option>
+                </select>
+                <button type="submit">Buscar Alojamiento</button>
+
+            </form>
+            <ul id="resultados"></ul>
+        </section>
+        <aside>
+            <h1>Mis Viajes</h1>
+            <p id="TextoCarritoVacio">No tenes viajes seleccionados.</p>
+            <ul id="itemsCarrito"> </ul>
+            <button id="botonVaciarCarrito" type="button" onclick="vaciarCarrito()" disabled>Borrar Viajes</button>
+        </aside>
+    </main>
+
+    <script src="main.js"></script>
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/toastify-js"></script>
+
 </body>
 
 </html>

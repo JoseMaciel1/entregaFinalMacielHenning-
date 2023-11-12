@@ -1,0 +1,454 @@
+{
+    "destinos": [
+        [
+            "Brasil",
+            "Hotel Atlantico",
+            100
+        ],
+        [
+            "Brasil",
+            "Copacabana Design Hotel",
+            85
+        ],
+        [
+            "Chile",
+            "Sheraton",
+            125
+        ],
+        [
+            "Chile",
+            "Le Reve Boutique",
+            75
+        ],
+        [
+            "Bolivia",
+            "Hotel Palacio de Sal",
+            55
+        ],
+        [
+            "Bolivia",
+            "Hotel Atlantico",
+            94
+        ],
+        [
+            "Uruguay",
+            "Hyatt",
+            110
+        ],
+        [
+            "Uruguay",
+            "Alma Historica",
+            90
+        ],
+        [
+            "Italia",
+            "Roma Grand Hotel",
+            130
+        ],
+        [
+            "Italia",
+            "Venecia Boutique Suites",
+            95
+        ],
+        [
+            "Francia",
+            "París Elegance Resort",
+            180
+        ],
+        [
+            "Francia",
+            "Niza Beachfront Hotel",
+            120
+        ],
+        [
+            "España",
+            "Barcelona Luxe Plaza",
+            150
+        ],
+        [
+            "España",
+            "Ibiza Sunset Retreat",
+            110
+        ],
+        [
+            "Grecia",
+            "Atenas Royal Palace",
+            160
+        ],
+        [
+            "Grecia",
+            "Santorini Cliffside Villas",
+            130
+        ],
+        [
+            "Turquía",
+            "Estambul Grand Suites",
+            140
+        ],
+        [
+            "Turquía",
+            "Capadocia Cave Hotel",
+            100
+        ],
+        [
+            "Australia",
+            "Sídney Harbour View",
+            200
+        ],
+        [
+            "Australia",
+            "Gran Barrera de Coral Resort",
+            150
+        ],
+        [
+            "Japón",
+            "Tokio Skyline Hotel",
+            170
+        ],
+        [
+            "Japón",
+            "Kioto Traditional Inn",
+            120
+        ],
+        [
+            "Canadá",
+            "Vancouver Waterfront Lodge",
+            180
+        ],
+        [
+            "Canadá",
+            "Montreal Arts District Hotel",
+            130
+        ],
+        [
+            "México",
+            "Ciudad de México Colonial Retreat",
+            140
+        ],
+        [
+            "México",
+            "Cancún Beachfront Paradise",
+            110
+        ],
+        [
+            "Sudáfrica",
+            "Ciudad del Cabo Luxury Resort",
+            160
+        ],
+        [
+            "Sudáfrica",
+            "Safari Lodge Kruger Park",
+            120
+        ],
+        [
+            "India",
+            "Delhi Royal Palace",
+            150
+        ],
+        [
+            "India",
+            "Goa Beachside Retreat",
+            100
+        ],
+        [
+            "Rusia",
+            "Moscú Kremlin View Hotel",
+            170
+        ],
+        [
+            "Rusia",
+            "San Petersburgo Imperial Suites",
+            130
+        ],
+        [
+            "China",
+            "Pekín Forbidden City Hotel",
+            160
+        ],
+        [
+            "China",
+            "Shanghái Skyline Mansion",
+            120
+        ],
+        [
+            "Estados Unidos",
+            "Nueva York Times Square Tower",
+            200
+        ],
+        [
+            "Estados Unidos",
+            "Los Ángeles Hollywood Hills Retreat",
+            150
+        ],
+        [
+            "Reino Unido",
+            "Londres Royal Residence",
+            180
+        ],
+        [
+            "Reino Unido",
+            "Edimburgo Castle View Inn",
+            130
+        ],
+        [
+            "Alemania",
+            "Berlín Brandenburg Gate Hotel",
+            150
+        ],
+        [
+            "Alemania",
+            "Múnich Alpine Chalet",
+            110
+        ],
+        [
+            "Argentina",
+            "Buenos Aires Tango Suites",
+            130
+        ],
+        [
+            "Argentina",
+            "Bariloche Mountain Lodge",
+            90
+        ],
+        [
+            "Brasil",
+            "Río de Janeiro Copacabana Bliss",
+            170
+        ],
+        [
+            "Brasil",
+            "Amazon Rainforest Eco Lodge",
+            120
+        ],
+        [
+            "Chile",
+            "Santiago Skyscraper Hotel",
+            150
+        ],
+        [
+            "Chile",
+            "Patagonia Wilderness Retreat",
+            110
+        ],
+        [
+            "Bolivia",
+            "La Paz Andean Escape",
+            90
+        ],
+        [
+            "Bolivia",
+            "Salar de Uyuni Salt Flats Hotel",
+            120
+        ],
+        [
+            "Uruguay",
+            "Montevideo Coastal Mansion",
+            140
+        ],
+        [
+            "Uruguay",
+            "Punta del Este Seaside Resort",
+            100
+        ],
+        [
+            "Portugal",
+            "Lisboa Riverside Palace",
+            160
+        ],
+        [
+            "Portugal",
+            "Oporto Historic Hideaway",
+            120
+        ],
+        [
+            "Suiza",
+            "Zúrich Alpine Retreat",
+            180
+        ],
+        [
+            "Suiza",
+            "Ginebra Lakefront Lodge",
+            130
+        ],
+        [
+            "Noruega",
+            "Oslo Fjordview Hotel",
+            150
+        ],
+        [
+            "Noruega",
+            "Bergen Coastal Cabin",
+            110
+        ],
+        [
+            "Dinamarca",
+            "Copenhague Canal-side Manor",
+            140
+        ],
+        [
+            "Dinamarca",
+            "Aarhus Art District Hotel",
+            100
+        ],
+        [
+            "Suecia",
+            "Estocolmo Archipelago Retreat",
+            160
+        ],
+        [
+            "Suecia",
+            "Gotemburgo Harborview Suites",
+            120
+        ],
+        [
+            "Finlandia",
+            "Helsinki Northern Lights Lodge",
+            140
+        ],
+        [
+            "Finlandia",
+            "Rovaniemi Santa's Hideout",
+            100
+        ],
+        [
+            "Nueva Zelanda",
+            "Auckland Sky Tower Hotel",
+            180
+        ],
+        [
+            "Nueva Zelanda",
+            "Queenstown Lakefront Chalet",
+            130
+        ],
+        [
+            "Países Bajos",
+            "Ámsterdam Canal House",
+            150
+        ],
+        [
+            "Países Bajos",
+            "Róterdam Modern Loft",
+            110
+        ],
+        [
+            "Irlanda",
+            "Dublín Castleview Inn",
+            140
+        ],
+        [
+            "Irlanda",
+            "Galway Coastal Retreat",
+            100
+        ],
+        [
+            "Egipto",
+            "El Cairo Pyramid Suites",
+            160
+        ],
+        [
+            "Egipto",
+            "Sharm El Sheikh Beachfront Oasis",
+            120
+        ],
+        [
+            "Tailandia",
+            "Bangkok Cityscape Hotel",
+            170
+        ],
+        [
+            "Tailandia",
+            "Phuket Beachfront Villa",
+            130
+        ],
+        [
+            "Vietnam",
+            "Hanói Colonial Mansion",
+            150
+        ],
+        [
+            "Vietnam",
+            "Halong Bay Cruise Retreat",
+            110
+        ],
+        [
+            "Indonesia",
+            "Yakarta Skyscraper Suites",
+            140
+        ],
+        [
+            "Indonesia",
+            "Bali Cliffside Villa",
+            100
+        ],
+        [
+            "Maldivas",
+            "Malé Overwater Bungalow Resort",
+            200
+        ],
+        [
+            "Maldivas",
+            "Thulusdhoo Surfing Paradise",
+            150
+        ],
+        [
+            "Corea del Sur",
+            "Seúl Palaceview Hotel",
+            160
+        ],
+        [
+            "Corea del Sur",
+            "Busan Coastal Haven",
+            120
+        ],
+        [
+            "Filipinas",
+            "Manila Bayfront Mansion",
+            140
+        ],
+        [
+            "Filipinas",
+            "Boracay White Beach Retreat",
+            100
+        ],
+        [
+            "Marruecos",
+            "Marrakech Desert Oasis",
+            140
+        ],
+        [
+            "Marruecos",
+            "Casablanca Coastal Hideaway",
+            100
+        ],
+        [
+            "Kenia",
+            "Nairobi Safari Lodge",
+            160
+        ],
+        [
+            "Kenia",
+            "Mombasa Beachside Resort",
+            120
+        ],
+        [
+            "Cuba",
+            "La Habana Colonial Mansion",
+            130
+        ],
+        [
+            "Cuba",
+            "Varadero Beachfront Paradise",
+            90
+        ],
+        [
+            "Ghana",
+            "Acra City View Hotel",
+            110
+        ],
+        [
+            "Ghana",
+            "Kumasi Cultural Retreat",
+            80
+        ]
+    ]
+}
